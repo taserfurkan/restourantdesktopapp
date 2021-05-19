@@ -1,0 +1,56 @@
+C:\Users\taser\source\repos\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+C:\Users\taser\source\repos\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+C:\Users\taser\source\repos\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+C:\Users\taser\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csprojAssemblyReference.cache
+C:\Users\taser\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\Users\taser\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\taser\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\Users\taser\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Users\taser\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+C:\Users\taser\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form2.resources
+C:\Users\taser\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form3.resources
+C:\Users\taser\OneDrive\Masaüstü\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+C:\Users\taser\OneDrive\Masaüstü\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+C:\Users\taser\OneDrive\Masaüstü\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+C:\Users\taser\OneDrive\Masaüstü\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csprojAssemblyReference.cache
+C:\Users\taser\OneDrive\Masaüstü\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\Users\taser\OneDrive\Masaüstü\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form2.resources
+C:\Users\taser\OneDrive\Masaüstü\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form3.resources
+C:\Users\taser\OneDrive\Masaüstü\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\taser\OneDrive\Masaüstü\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\Users\taser\OneDrive\Masaüstü\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Users\taser\OneDrive\Masaüstü\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+C:\Users\taser\OneDrive\Masaüstü\FurkanTaşer-16008119046\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+C:\Users\taser\OneDrive\Masaüstü\FurkanTaşer-16008119046\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+C:\Users\taser\OneDrive\Masaüstü\FurkanTaşer-16008119046\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+C:\Users\taser\OneDrive\Masaüstü\FurkanTaşer-16008119046\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\Users\taser\OneDrive\Masaüstü\FurkanTaşer-16008119046\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form2.resources
+C:\Users\taser\OneDrive\Masaüstü\FurkanTaşer-16008119046\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form3.resources
+C:\Users\taser\OneDrive\Masaüstü\FurkanTaşer-16008119046\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\taser\OneDrive\Masaüstü\FurkanTaşer-16008119046\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\Users\taser\OneDrive\Masaüstü\FurkanTaşer-16008119046\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Users\taser\OneDrive\Masaüstü\FurkanTaşer-16008119046\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+E:\Yaptığım Projeler\FurkanTaşer-16008119046\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+E:\Yaptığım Projeler\FurkanTaşer-16008119046\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+E:\Yaptığım Projeler\FurkanTaşer-16008119046\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+E:\Yaptığım Projeler\FurkanTaşer-16008119046\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csprojAssemblyReference.cache
+E:\Yaptığım Projeler\FurkanTaşer-16008119046\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+E:\Yaptığım Projeler\FurkanTaşer-16008119046\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form2.resources
+E:\Yaptığım Projeler\FurkanTaşer-16008119046\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form3.resources
+E:\Yaptığım Projeler\FurkanTaşer-16008119046\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+E:\Yaptığım Projeler\FurkanTaşer-16008119046\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+E:\Yaptığım Projeler\FurkanTaşer-16008119046\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+E:\Yaptığım Projeler\FurkanTaşer-16008119046\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+E:\Yaptığım Projeler\FurkanTaşer-16008119046\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+C:\Users\taser\Desktop\FurkanTaşer-16008119046\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+C:\Users\taser\Desktop\FurkanTaşer-16008119046\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+C:\Users\taser\Desktop\FurkanTaşer-16008119046\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+C:\Users\taser\Desktop\FurkanTaşer-16008119046\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csprojAssemblyReference.cache
+C:\Users\taser\Desktop\FurkanTaşer-16008119046\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\Users\taser\Desktop\FurkanTaşer-16008119046\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form2.resources
+C:\Users\taser\Desktop\FurkanTaşer-16008119046\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form3.resources
+C:\Users\taser\Desktop\FurkanTaşer-16008119046\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\taser\Desktop\FurkanTaşer-16008119046\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\Users\taser\Desktop\FurkanTaşer-16008119046\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+C:\Users\taser\Desktop\FurkanTaşer-16008119046\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Users\taser\Desktop\FurkanTaşer-16008119046\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
